@@ -141,7 +141,7 @@ namespace WTU221_lesson1
                     break;
                 
                 default:
-                    WriteLine("Нефиг писать всякую белиберду");
+                    WriteLine("Нефиг писать всякую белиберду!");
                     break;
             }
         }
